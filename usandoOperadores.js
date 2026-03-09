@@ -11,7 +11,7 @@ console.log(`O preço final é de ${precoFinal}, em reais`)
 
 const salario = 1518;
 
-const salarioAnual = salrio * 12;
+const salarioAnual = salario * 12;
 
 const salarioPorDia = salario / (7 * 4); // considerando que o mês tem 4 semanas, e a semana tem 7 dias, então o mês tem 28 dias, e o salário por dia é o salário mensal dividido por 28 //);
 const salarioPorSemana = salario / 4;
